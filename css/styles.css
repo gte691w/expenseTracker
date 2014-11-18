@@ -1,0 +1,19 @@
+
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+input {
+  display: table-cell;
+}
+
+label{
+    display: table-cell;
+    text-align: right;
+}
+#show-expenses{
+	display:none;
+}
+
